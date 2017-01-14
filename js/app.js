@@ -59,7 +59,7 @@ const AppView = Backbone.View.extend({
 	},
 	
 	_checkearData: function _checkdata(input){
-		if(input==="8856305"){
+		if(input==="8199763"){
 			hablar("Su saldo es 50 balboas. Gracias Por Llamar");
 		}
 		else
